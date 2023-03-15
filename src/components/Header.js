@@ -27,7 +27,7 @@ const Header = () => {
         </div>
         <div
           id="MobileMenu"
-          className="rounded-md hidden bg-white space-y-8 w-10/12 py-8 absolute top-24 text-center z-20 flex flex-col text-slate-400 lg:space-x-8 lg:block lg:static lg:w-auto lg:py-0 lg:bg-auto lg:space-y-0 lg:text-left"
+          className="rounded-md hidden bg-white space-y-8 w-10/12 py-8 absolute top-24 text-center z-20 flex flex-col text-black lg:text-slate-400 lg:space-x-8 lg:block lg:static lg:w-auto lg:py-0 lg:bg-auto lg:space-y-0 lg:text-left"
         >
           <span className="hover:text-black cursor-pointer">Home</span>
           <span className="hover:text-black cursor-pointer">About</span>
